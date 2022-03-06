@@ -1,0 +1,8 @@
+Download the python notebook in your preferred editor
+Run the code 
+Input the start node and goal node in the format shown in the python notebook
+
+
+Note:
+1.Since my code has 3 for loops making the time complexity (n**3), it has a delay in computing goal node. Hence i have used a closer goal node
+Each node is stores as a tuple (cost to come, parent, (i,j), index)
